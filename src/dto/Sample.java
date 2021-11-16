@@ -2,5 +2,6 @@ package dto;
 
 public class Sample {
 
-	private int num;
+	private String title;
+	private String athor;
 }
